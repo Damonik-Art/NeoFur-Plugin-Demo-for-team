@@ -4,7 +4,7 @@ Thank you for downloading the NeoFur Demo project!
 
 This project provides a set of examples that will show you the features and best practices for using NeoFur, as well as provide example assets that show what can be achieved.
 
-The examples in this project link directly to [our online documentation](https://neofur.torchpad.com/)
+The examples in this project link directly to [our online documentation](http://wiki.neoglyphic.com/)
 
 ## Disclaimer
 This project won't work without the NeoFur Plugin itself, which is a separate download.  Depending on which version of the plugin you have, installation of the plugin into this project may vary, so you will need to consult the instructions of that plugin version.
